@@ -1,0 +1,10 @@
+{
+  "name": "@thebrand/site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Start site dev server (implement later)\"",
+    "build": "echo \"Build site (implement later)\"",
+    "start": "echo \"Start site (implement later)\""
+  }
+}

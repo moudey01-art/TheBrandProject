@@ -1,0 +1,7 @@
+{
+  "name": "@thebrand/brand-guides",
+  "version": "0.1.0",
+  "private": true,
+  "main": "README.md",
+  "license": "MIT"
+}

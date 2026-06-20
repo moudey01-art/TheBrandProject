@@ -1,0 +1,9 @@
+{
+  "name": "@thebrand/app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Start app dev (implement later)\"",
+    "build": "echo \"Build app (implement later)\""
+  }
+}
